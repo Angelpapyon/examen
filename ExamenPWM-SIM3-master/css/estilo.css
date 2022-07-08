@@ -1,0 +1,126 @@
+/*
+    *Modificar este archivo para agregar los estilos requeridos
+    *Realizar la importaci'on correspondiente
+    *Crear las clases necesarias para cada elemento
+    *Crear los ID para los elementos creados
+    *Agregar efectos mediante HOVER
+    *
+*/
+.autor{
+    border: 1px;
+    
+
+}
+body{
+    background-image: url(/img/city\(personal\ work\).png);
+    background-size: 100%;
+    color: aliceblue;
+    font-family: HELVETICA, TREBUCHET MS, ARIAL;
+        
+}
+img{
+    width: 100%;
+    height: 100%;
+}
+.autorG{
+    text-align: center;
+   
+    margin-top: 60px;    
+    width: auto;
+    
+}
+#am{background-color: rgb(255, 145, 0); padding: 0%; margin: 0%;color: black;}
+#em{background-color: rgba(255, 106, 0, 0.692); padding: 0%; margin: 0%;color:black;}
+#im{background-color: rgba(147, 87, 23, 0.411); padding: 0%; margin: 0%;color:black;}
+
+
+ul li a{
+    list-style: none;
+    text-decoration: none;
+    color: rgb(60, 255, 0);
+    padding: 10px 16px;
+   font-size: 18px;
+
+}
+ul li img{
+ width: 20px;
+ height: 24px;
+ margin: 0%;
+ padding: 0%;
+}
+ul li{
+    float: left;
+    list-style: none;
+    background-color: rgba(235, 20, 20, 0.322);
+    
+}
+ul{
+    display: flex;
+    justify-content: center;
+    
+
+}
+
+.menulol{
+    top: 0%;
+    margin: 0%;
+    position: fixed;
+    display: flex;
+   
+
+
+}
+.menulol li{
+    list-style: none;
+    float: left;
+    padding: 10px 40px;
+    background-color: aquamarine;
+    justify-content: center;
+
+}
+a{
+    text-decoration: none;
+}
+
+.c1{
+    background-color: #36979E;
+    color: white;
+    width: 25%;
+    text-align: center;
+    float: left;
+}
+
+.c2{
+    background-color: #EB7FC0;
+    color: white;
+    width: 25%;
+    text-align: center;
+    float: left;
+}
+
+.c3{
+    background-color: #66E1EA;
+    color: white;
+    width: 25%;
+    text-align: center;
+    float: left;
+}
+.c4{
+    background-color: #EBD650;
+    color: white;
+    width: 25%;
+    text-align: center;
+    float: left;}
+
+
+    .ordenar li{
+        width: 100%;
+        padding: 10 px 30px;
+        
+    }
+    #red{
+      width: 150px;
+      height: 150px;
+       border-radius: 50%;
+       padding: 30px 10px 10px;
+    }
